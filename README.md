@@ -5,3 +5,5 @@ Description: A Java program that provides an accurate analysis on a user's shuff
 Tools/Frameworks/APIs: The GUI was created using JFrame. The end product included: buttons, text input, and text fields.
 
 Reflection: This is by far the most productive project I had, as it delved into a topic that is not commonly studied and is unique. I thoroughly enjoyed building this as it was one of my first coding projects.
+
+*TO SEE HOW THIS LOOKS LIKE, PLEASE GO TO "simpleshuffle-image.png"
